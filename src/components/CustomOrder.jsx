@@ -51,7 +51,7 @@ const CustomOrder = () => {
       </div>
 
       {/* Steps */}
-      <div className="mx-auto mt-5 grid max-w-5xl grid-cols-1 md:grid-cols-3">
+      <div className="mx-auto mt-5 grid container grid-cols-1 md:grid-cols-3">
 
         {steps.map((step, index) => (
           <React.Fragment key={step.number}>

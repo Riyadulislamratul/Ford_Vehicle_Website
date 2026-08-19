@@ -32,7 +32,7 @@ const PowerDoesMatter = () => {
       </div>
 
       {/* Main Content */}
-      <div className="mx-auto flex max-w-6xl flex-col px-6 pb-14 pt-12 sm:px-10 sm:pt-14 lg:flex-row lg:items-center lg:gap-12 lg:px-12 lg:pb-16">
+      <div className="mx-auto flex container flex-col px-6 pb-14 pt-12 sm:px-10 sm:pt-14 lg:flex-row lg:items-center lg:gap-12 lg:px-12 lg:pb-16">
 
         {/* Left Content */}
         <div className="w-full lg:w-[45%]">
