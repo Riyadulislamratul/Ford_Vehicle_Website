@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Footer from './components/Footer'
 import CustomOrder from './components/CustomOrder'
 import PowerDoesMatter from './components/PowerDoesMatter'
+import GT from './components/GT'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Hero />
       <CustomOrder />
       <PowerDoesMatter />
+      <GT />
       <Footer />
     </>
   )
