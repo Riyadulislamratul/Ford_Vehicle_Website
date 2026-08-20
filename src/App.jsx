@@ -6,6 +6,7 @@ import CustomOrder from './components/CustomOrder'
 import PowerDoesMatter from './components/PowerDoesMatter'
 import GT from './components/GT'
 import Mach1 from './components/Mach1'
+import ShelbyGT500 from './components/ShelbyGT500'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <PowerDoesMatter />
       <GT />
       <Mach1 />
+      <ShelbyGT500 />
       <Footer />
     </>
   )
